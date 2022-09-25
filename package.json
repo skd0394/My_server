@@ -1,7 +1,6 @@
 {
   "name": "my_server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -20,5 +19,6 @@
   "homepage": "https://github.com/skd0394/My_server#readme",
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "description": ""
 }

@@ -1,16 +1,3 @@
 {
-    "todo": [
-        {
-            "title": "do the interview preparator",
-            "priority": 3,
-            "time": "evening"
-        }
-    ],
-    "user": [
-        {
-            "name": "shivkant dubey",
-            "role": "FSD",
-            "avg_packages": "5LPA"
-        }
-    ]
+    "users": []
 }
