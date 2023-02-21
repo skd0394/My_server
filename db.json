@@ -1,19 +1,1090 @@
 {
-    "watchNav": [
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_ultra_light__dhtdhiw7eowi_large.svg" ,"id":1,"title":"Apple Watch Ultra"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_series_8_light__bfftufvv1or6_large.svg", "id":2,"title":"Apple Watch Series 8"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_se_light__c2mzuz6w15km_large.svg", "id":3,"title":"Apple Watch SE"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_nike_light__b7zt65jh0i76_large.svg", "id":4,"title":"Apple Watch Nike"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_compare__b9nnoiqjkxki_large.svg", "id":5,"title":"Compare"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_bands__fyke1oo6sfyy_large.svg", "id":6,"title":"Straps"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_airpods__b481yj4nw0vm_large.svg", "id":7,"title":"AirPods"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_accessories__bu98chbn5rea_large.svg", "id":8,"title":"Accessories"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_watch_os__bv24twycj3aq_large.svg", "id":9,"title":"watchOS"},
-        {"url":"https://www.apple.com/v/watch/ba/images/overview/icons/watch_nav_shop_watch_light__fkrdcz8nfwi2_large.svg", "id":10,"title":"Shop Watch"}
-        
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+    "products": [
+      {
+        "id":1,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130326950015_072_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"By Anthropologie Strapless Mini Dress",
+        "price":"160.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130326950015_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80041007_020_b?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/79705539_011_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":2,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_009_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"By Anthropologie Square-Neck Tiered Dress",
+        "price":"170.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_001_s?fit=constrain&hei=56&qlt=75"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_009_s?fit=constrain&hei=56&qlt=75"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_038_s?fit=constrain&hei=56&qlt=75"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130348690217,
+          "colorcode": "009",
+          "discription":[
+            {"disc":"Viscose, linen, cotton, elastane"},
+            {"disc":"Side zip"},
+            {"disc":"Machine wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 39.75* from shoulder"},
+            {"title":"Petite","desc":"Falls 36.25* from shoulder"},
+            {"title":"Plus","desc":"Falls 43.25* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/70020961_079_b?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80060478_001_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":3,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_001_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"By Anthropologie Square-Neck Tiered Dress",
+        "price":"170.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_001_s?fit=constrain&hei=56&qlt=75"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_009_s?fit=constrain&hei=56&qlt=75"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_038_s?fit=constrain&hei=56&qlt=75"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130348690217,
+          "colorcode": "001",
+          "discription":[
+            {"disc":"Viscose, linen, cotton, elastane"},
+            {"disc":"Side zip"},
+            {"disc":"Machine wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 39.75* from shoulder"},
+            {"title":"Petite","desc":"Falls 36.25* from shoulder"},
+            {"title":"Plus","desc":"Falls 43.25* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          
+        ]
+      },
+      {
+        "id":4,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_038_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"By Anthropologie Square-Neck Tiered Dress",
+        "price":"170.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_001_s?fit=constrain&hei=56&qlt=75"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_009_s?fit=constrain&hei=56&qlt=75"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130348690217_038_s?fit=constrain&hei=56&qlt=75"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130348690217,
+          "colorcode": "038",
+          "discription":[
+            {"disc":"Viscose, linen, cotton, elastane"},
+            {"disc":"Side zip"},
+            {"disc":"Machine wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 39.75* from shoulder"},
+            {"title":"Petite","desc":"Falls 36.25* from shoulder"},
+            {"title":"Plus","desc":"Falls 43.25* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80060056_024_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":5,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130634430017_073_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Endless Rose Mock-Neck Sleeveless Mini Dress",
+        "price":"148.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130634430017_001_s?fit=constrain&hei=56&qlt=75"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130634430017_073_s?fit=constrain&hei=56&qlt=75"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130634430017,
+          "colorcode": "073",
+          "discription":[
+            {"disc":"Rayon, nylon, polyester"},
+            {"disc":"Pullover Styling"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 33.5* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/79888798_012_b?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/79709895_011_b14?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":6,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130634430017_001_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Sleeveless Flounce Dress",
+        "price":"148.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130634430017_001_s?fit=constrain&hei=56&qlt=75"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130634430017_073_s?fit=constrain&hei=56&qlt=75"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130634430017,
+          "colorcode": "001",
+          "discription":[
+            {"disc":"Rayon, nylon, polyester"},
+            {"disc":"Pullover Styling"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 33.5* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/62459854_000_b?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/67554519_014_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":7,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4",
+            "v5":"5"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Sleeveless Flounce Dress",
+        "price":"148.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130607630016,
+          "colorcode": "041",
+          "discription":[
+            {"disc":"Cotton; nylon, polyester, elastane woven bottom"},
+            {"disc":"Pullover Styling"},
+            {"disc":"Machine wash"},
+            {"disc":"Imported"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* long"},
+            {"title":"Petite","desc":"Falls 44.5* long"},
+            {"title":"Plus","desc":"Falls 50* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114640120042_011_b14?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/63651699_012_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":8,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Sleeveless Flounce Dress",
+        "price":"148.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130607630016,
+          "colorcode": "060",
+          "discription":[
+            {"disc":"Cotton; nylon, polyester, elastane woven bottom"},
+            {"disc":"Pullover Styling"},
+            {"disc":"Machine wash"},
+            {"disc":"Imported"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* long"},
+            {"title":"Petite","desc":"Falls 44.5* long"},
+            {"title":"Plus","desc":"Falls 50* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/63269146_054_b?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/79619524_085_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":9,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Sleeveless Flounce Dress",
+        "price":"148.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130607630016,
+          "colorcode": "060",
+          "discription":[
+            {"disc":"Cotton; nylon, polyester, elastane woven bottom"},
+            {"disc":"Pullover Styling"},
+            {"disc":"Machine wash"},
+            {"disc":"Imported"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* long"},
+            {"title":"Petite","desc":"Falls 44.5* long"},
+            {"title":"Plus","desc":"Falls 50* long"}
+          ]
+        },
+        "sideimg":[
+          
+        ]
+      },
+      
+      {
+        "id":10,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_010_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"By Anthropologie Eyelet Shirt Dress",
+        "price":"230.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_083_s?fit=constrain&hei=56&qlt=75", "alt":"MANGO"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_010_s?fit=constrain&hei=56&qlt=75", "alt":"WHITE"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130916210140,
+          "colorcode": "010",
+          "discription":[
+            {"disc":"modal lining"},
+            {"disc":"Button front"},
+            {"disc":"Machine wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 49.5* from shoulder"},
+            {"title":"Petite","desc":"Falls 33.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 33.5* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80551757_014_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":11,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Cassandra Maxi Dress",
+        "price":"160.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130370060007,
+          "colorcode": "008",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80194582_010_b14?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":12,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Cassandra Maxi Dress",
+        "price":"160.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130370060007,
+          "colorcode": "085",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/53108312_002_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":13,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Cassandra Maxi Dress",
+        "price":"160.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130370060007,
+          "colorcode": "039",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80512064_061_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":14,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Cassandra Maxi Dress",
+        "price":"160.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130370060007,
+          "colorcode": "035",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80041841_035_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":15,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"Maeve Cassandra Maxi Dress",
+        "price":"160.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130370060007,
+          "colorcode": "000",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/67426239_066_b15?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":16,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130646420031_104_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Somerset Mini Dress",
+        "price":"140.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130646420031,
+          "colorcode": "104",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/82325333_040_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":17,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130646420031_001_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Somerset Mini Dress",
+        "price":"140.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130646420031,
+          "colorcode": "001",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/82325333_040_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":18,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130646420031_014_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Somerset Mini Dress",
+        "price":"140.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130646420031,
+          "colorcode": "001",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/68838002_001_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":19,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130646420031_039_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Somerset Mini Dress",
+        "price":"140.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130646420031,
+          "colorcode": "039",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/68542943_014_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":20,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130646420031_033_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=360",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Somerset Mini Dress",
+        "price":"140.00",
+        "color":[
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130646420031,
+          "colorcode": "033",
+          "discription":[
+            {"disc":"Cotton, rayon"},
+            {"disc":"Flutter sleeves"},
+            {"disc":"Spliced neck"},
+            {"disc":"Pintucked bodice"},
+            {"disc":"Henley-style button front"},
+            {"disc":"Maxi silhouette"},
+            {"disc":"Ruffled hem"}
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Falls 48* from shoulder"},
+            {"title":"Petite","desc":"Falls 44.5* from shoulder"},
+            {"title":"Plus","desc":"Falls 50* from shoulder"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/68760651_001_b?$an-category$&qlt=80&fit=constrain"}
+        ]
+      }
+    ]
+    
   }
