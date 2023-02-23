@@ -1085,6 +1085,1179 @@
           {"img":"https://images.urbndata.com/is/image/Anthropologie/68760651_001_b?$an-category$&qlt=80&fit=constrain"}
         ]
       }
+    ],
+    "clothing":[
+      {
+        "id":1,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_b",
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":2,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":3,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":4,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":5,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":6,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":7,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":8,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_017_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":9,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_065_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },
+      {
+        "id":10,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_085_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":11,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_015_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":12,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_037_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":13,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_047_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":14,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_067_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":15,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_091_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":16,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_062_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":17,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_029_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":18,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_053_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":19,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_034_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      },{
+        "id":20,
+        "image":{
+          "furl":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_045_b",                        
+          "version":{
+            "v1":"",
+            "v2":"2",
+            "v3":"3",
+            "v4":"4"
+          },
+          "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
+          "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
+        },
+        "title":"The Colette Cropped Wide-Leg Linen Pants",
+        "price":"130.00",
+        "color":[
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+
+        ],
+        "fit":[
+          {"title":"Standard","choosed":true},
+          {"title":"Petite","choosed":false},
+          {"title":"Plus","choosed":false}
+        ],
+        "size":[
+          {"s":"XXS"},
+          {"s":"XS"},
+          {"s":"S"},
+          {"s":"M"},
+          {"s":"L"},
+          {"s":"XL"}
+        ],
+        "productdetails":{
+          "styleno":4130326950015,
+          "colorcode": "072",
+          "discription":[
+            {"disc":"Viscose, nylon; polyester trim"},
+            {"disc":"Side zip"},
+            {"disc":"Hand wash"},
+            {"disc":"Imported"}
+
+          ],
+          "dimensions":[
+            {"title":"Standard","desc":"Measures 27.75* long"},
+            {"title":"Petite","desc":"Measures 26* long"},
+            {"title":"Plus","desc":"Measures 30.75* long"}
+          ]
+        },
+        "sideimg":[
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/4114950250001_004_b2?$an-category$&qlt=80&fit=constrain"},
+          {"img":"https://images.urbndata.com/is/image/Anthropologie/80132772_024_b2?$an-category$&qlt=80&fit=constrain"}
+        ]
+      }
     ]
+
     
   }
