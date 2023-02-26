@@ -2680,35 +2680,7 @@
         }
       }
     ],
-    "cart":[
-      {
-          "id":1,
-          "image":{
-            "url":"https://images.urbndata.com/is/image/Anthropologie/65368508_001_b?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
-          },
-          "title":"The Colette Cropped Wide-Leg Linen Pants",
-          "price":"130.00",
-          "quantity":1
-      },
-      {
-        "id":2,
-        "image":{
-          "url":"https://images.urbndata.com/is/image/Anthropologie/66599556_031_b?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
-        },
-        "title":"The Colette Cropped Wide-Leg Linen Pants",
-        "price":"150.00",
-        "quantity":1
-      },
-      {
-        "id":3,
-        "image":{
-          "url":"https://images.urbndata.com/is/image/Anthropologie/78605938_080_b?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
-        },
-        "title":"The Colette Cropped Wide-Leg Linen Pants",
-        "price":"180.00",
-        "quantity":1
-      }
-    ],
+    "cart":[],
 
     "allproduct":[
       {
