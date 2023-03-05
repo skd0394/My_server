@@ -16,7 +16,7 @@
         "title":"By Anthropologie Strapless Mini Dress",
         "price":"160.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130326950015_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130326950015_072_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -327,9 +327,9 @@
         "title":"Maeve Sleeveless Flounce Dress",
         "price":"120.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "color":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "color":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "color":"EMPIRE YELLOW"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -380,9 +380,9 @@
         "title":"Maeve Sleeveless Flounce Dress",
         "price":"299.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "color":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "color":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "color":"EMPIRE YELLOW"}
         ],
         "fit":[
           {"title":"Standard","choosed":true}
@@ -431,9 +431,9 @@
         "title":"Maeve Sleeveless Flounce Dress",
         "price":"115.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "color":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "color":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "color":"EMPIRE YELLOW"}
         ],
         "fit":[
           {"title":"Standard","choosed":true}
@@ -481,8 +481,8 @@
         "title":"By Anthropologie Eyelet Shirt Dress",
         "price":"230.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_083_s?fit=constrain&hei=56&qlt=75", "alt":"MANGO"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_010_s?fit=constrain&hei=56&qlt=75", "alt":"WHITE"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_083_s?fit=constrain&hei=56&qlt=75", "color":"MANGO"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_010_s?fit=constrain&hei=56&qlt=75", "color":"WHITE"}
         ],
         "fit":[
           {"title":"Standard","choosed":true}
@@ -531,11 +531,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"160.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -588,11 +588,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"260.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -645,11 +645,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"160.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -702,11 +702,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"160.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -759,11 +759,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"160.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -816,11 +816,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -873,11 +873,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -930,11 +930,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -987,11 +987,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -1044,11 +1044,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -1102,9 +1102,8 @@
         },
         "title":"Wide-Leg Linen Pants",
         "price":"130.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"blue"}
-        ],
+        "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", 
+        "color":"blue",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1154,9 +1153,8 @@
         },
         "title":"The Colette Cropped ",
         "price":"180.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"blue"}
-        ],
+        "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", 
+        "color":"blue",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1206,9 +1204,8 @@
         },
         "title":"Cropped Wide-Leg ",
         "price":"230.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"yellow"}
-        ],
+        "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75",
+        "color":"yellow",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1258,9 +1255,8 @@
         },
         "title":" Colette Wide-Leg Pants",
         "price":"170.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"brown"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"brown",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1310,9 +1306,8 @@
         },
         "title":"Colette Cropped Linen ",
         "price":"180.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"black"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"black",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1363,7 +1358,7 @@
         "title":" Linen Pants",
         "price":"140.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"white"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"white"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -1414,9 +1409,7 @@
         },
         "title":"Cropped Wide-Leg  Pants",
         "price":"210.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"yellow"}
-        ],
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"yellow",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1466,9 +1459,8 @@
         },
         "title":"Colette Wide-Leg Linen ",
         "price":"160.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"yellow"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"yellow",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1518,9 +1510,8 @@
         },
         "title":" Wide-Leg Linen Pants",
         "price":"230.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_065_s?fit=constrain&hei=56&qlt=75", "alt":"red"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_065_s?fit=constrain&hei=56&qlt=75", "color":"red",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1570,9 +1561,8 @@
         },
         "title":"Colette Cropped W",
         "price":"190.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"red"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"red",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1621,9 +1611,8 @@
         },
         "title":"Pants",
         "price":"490.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"white"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"white",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1672,9 +1661,8 @@
         },
         "title":"Wide-Leg Linen Pas",
         "price":"320.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_037_s?fit=constrain&hei=56&qlt=75", "alt":"green"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_037_s?fit=constrain&hei=56&qlt=75", "color":"green",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1723,9 +1711,8 @@
         },
         "title":"The Colette Shorts",
         "price":"500.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"blue"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"blue",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1772,11 +1759,10 @@
           "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
           "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
         },
-        "title":"Dolan Printed Halter Jumpsuit",
+        "title":"Dolan Printed Hcolorer Jumpsuit",
         "price":"530.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_067_s?fit=constrain&hei=56&qlt=75", "alt":"red"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_067_s?fit=constrain&hei=56&qlt=75", "color":"red",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1825,9 +1811,8 @@
         },
         "title":"The Colette Cropped Wide Leg Linen Pants",
         "price":"930.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_091_s?fit=constrain&hei=56&qlt=75", "alt":"blue"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_091_s?fit=constrain&hei=56&qlt=75", "color":"blue",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1876,9 +1861,8 @@
         },
         "title":"The Somerset Maxi Dress",
         "price":"130.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_062_s?fit=constrain&hei=56&qlt=75", "alt":"pink"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_062_s?fit=constrain&hei=56&qlt=75", "color":"pink",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1927,9 +1911,7 @@
         },
         "title":"Farm Rio Bloomming Garden Blouse",
         "price":"430.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_062_s?fit=constrain&hei=56&qlt=75", "alt":"pink"}
-        ],
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_062_s?fit=constrain&hei=56&qlt=75", "color":"pink",
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -1978,9 +1960,8 @@
         },
         "title":"Moon River Pleated Tie-Belt Pants",
         "price":"180.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_034_s?fit=constrain&hei=56&qlt=75", "alt":"green"}
-        ],
+
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130728470001_034_s?fit=constrain&hei=56&qlt=75", "color":"green" ,
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -2028,17 +2009,9 @@
           "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
         },
         "title":"Pilcro Strapless Polished Wide-Leg Jumpsuit",
-        "price":"990.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
-
-        ],
+        "price":"990.00",  
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"yellow"
+        ,
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -2087,16 +2060,9 @@
         },
         "title":"Endless Rose Mock-Neck Sleeveless Mini Dress",
         "price":"1300.00",
-        "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
-
-        ],
+          
+          "colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"
+        ,
         "fit":[
           {"title":"Standard","choosed":true},
           {"title":"Petite","choosed":false},
@@ -2149,9 +2115,9 @@
         "title":"Bibi lou Aoi Heels",
         "price":"180.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_080_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_080_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_072_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2191,9 +2157,9 @@
         "title":"Fisherman Sport Sandals",
         "price":"125.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_029_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_029_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2233,9 +2199,9 @@
         "title":"The Colette Cropped Wide-Leg Linen Pants",
         "price":"190.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_012_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_017_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_012_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_017_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2275,9 +2241,9 @@
         "title":" Linen shoes",
         "price":"160.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/80260219_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/80260219_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/80260219_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/80260219_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2317,9 +2283,9 @@
         "title":"Wide-Leg shoes",
         "price":"170.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/78605938_080_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/78605938_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/78605938_080_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/78605938_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2359,9 +2325,9 @@
         "title":"  Cropped -  shoes",
         "price":"170.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79434403_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79434403_014_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79434403_072_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_072_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79434403_014_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2401,9 +2367,9 @@
         "title":"Colette-shoes",
         "price":"140.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_012_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_020_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_012_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_020_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2443,9 +2409,9 @@
         "title":"shoes",
         "price":"230.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_019_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_019_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2485,9 +2451,9 @@
         "title":" Colette Cropped  shoes",
         "price":"150.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_012_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_020_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_012_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_020_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2527,9 +2493,9 @@
         "title":" shoes",
         "price":"130.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_031_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_080_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_014_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_031_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_080_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_014_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -2573,7 +2539,7 @@
         "title":"By Anthropologie Strapless Mini Dress",
         "price":"160.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130326950015_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130326950015_072_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -2884,9 +2850,9 @@
         "title":"Maeve Sleeveless Flounce Dress",
         "price":"120.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "color":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "color":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "color":"EMPIRE YELLOW"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -2937,9 +2903,9 @@
         "title":"Maeve Sleeveless Flounce Dress",
         "price":"299.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "color":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "color":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "color":"EMPIRE YELLOW"}
         ],
         "fit":[
           {"title":"Standard","choosed":true}
@@ -2988,9 +2954,9 @@
         "title":"Maeve Sleeveless Flounce Dress",
         "price":"115.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "alt":"NAVY BLAZER"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "alt":"TOMATO"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "alt":"EMPIRE YELLOW"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_041_s?fit=constrain&hei=56&qlt=75", "color":"NAVY BLAZER"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_060_s?fit=constrain&hei=56&qlt=75", "color":"TOMATO"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130607630016_072_s?fit=constrain&hei=56&qlt=75", "color":"EMPIRE YELLOW"}
         ],
         "fit":[
           {"title":"Standard","choosed":true}
@@ -3038,8 +3004,8 @@
         "title":"By Anthropologie Eyelet Shirt Dress",
         "price":"230.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_083_s?fit=constrain&hei=56&qlt=75", "alt":"MANGO"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_010_s?fit=constrain&hei=56&qlt=75", "alt":"WHITE"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_083_s?fit=constrain&hei=56&qlt=75", "color":"MANGO"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130916210140_010_s?fit=constrain&hei=56&qlt=75", "color":"WHITE"}
         ],
         "fit":[
           {"title":"Standard","choosed":true}
@@ -3088,11 +3054,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"160.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3145,11 +3111,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"260.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3202,11 +3168,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"160.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3259,11 +3225,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"160.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3316,11 +3282,11 @@
         "title":"Maeve Cassandra Maxi Dress",
         "price":"160.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3373,11 +3339,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3430,11 +3396,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3487,11 +3453,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3544,11 +3510,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3601,11 +3567,11 @@
         "title":"The Somerset Mini Dress",
         "price":"140.00",
         "color":[
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "alt":"GREY MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "alt":"CORAL"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "alt":"BOTANICAL MOTIF"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "alt":"CHARTREUSE"},
-            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "alt":"ASSORTED"}
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_008_s?fit=constrain&hei=56&qlt=75", "color":"GREY MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_085_s?fit=constrain&hei=56&qlt=75", "color":"CORAL"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_039_s?fit=constrain&hei=56&qlt=75", "color":"BOTANICAL MOTIF"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_035_s?fit=constrain&hei=56&qlt=75", "color":"CHARTREUSE"},
+            {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4130370060007_000_s?fit=constrain&hei=56&qlt=75", "color":"ASSORTED"}
         ],
         "fit":[
           {"title":"Standard","choosed":true},
@@ -3658,9 +3624,9 @@
         "title":"Bibi lou Aoi Heels",
         "price":"180.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_080_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_080_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_072_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -3700,9 +3666,9 @@
         "title":"Fisherman Sport Sandals",
         "price":"125.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_029_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/60058286_029_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -3742,9 +3708,9 @@
         "title":"The Colette Cropped Wide-Leg Linen Pants",
         "price":"190.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_012_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_017_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_012_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/68542943_017_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -3784,9 +3750,9 @@
         "title":" Linen shoes",
         "price":"160.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/80260219_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/80260219_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/80260219_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/80260219_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -3826,9 +3792,9 @@
         "title":"Wide-Leg shoes",
         "price":"170.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/78605938_080_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/78605938_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/78605938_080_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/78605938_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -3868,9 +3834,9 @@
         "title":"  Cropped -  shoes",
         "price":"170.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79434403_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_072_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79434403_014_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79434403_072_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66297565_072_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79434403_014_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -3910,9 +3876,9 @@
         "title":"Colette-shoes",
         "price":"140.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_012_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_020_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_012_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79888798_020_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -3952,9 +3918,9 @@
         "title":"shoes",
         "price":"230.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_068_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_019_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_068_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_019_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/79529988_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -3994,9 +3960,9 @@
         "title":" Colette Cropped  shoes",
         "price":"150.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_012_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_020_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_012_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/65368508_020_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -4036,9 +4002,9 @@
         "title":" shoes",
         "price":"130.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_031_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_080_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_014_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_031_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_080_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/66599556_014_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
         ],
         "size":[
           {"s":"35"},
@@ -4078,13 +4044,13 @@
         "title":"Wide-Leg Linen Pants",
         "price":"130.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4137,13 +4103,13 @@
         "title":"The Colette Cropped ",
         "price":"180.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4196,13 +4162,13 @@
         "title":"Cropped Wide-Leg ",
         "price":"230.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4255,13 +4221,13 @@
         "title":" Colette Wide-Leg Pants",
         "price":"170.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4314,13 +4280,13 @@
         "title":"Colette Cropped Linen ",
         "price":"180.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4373,13 +4339,13 @@
         "title":" Linen Pants",
         "price":"140.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4432,13 +4398,13 @@
         "title":"Cropped Wide-Leg  Pants",
         "price":"210.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4491,13 +4457,13 @@
         "title":"Colette Wide-Leg Linen ",
         "price":"160.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4550,13 +4516,13 @@
         "title":" Wide-Leg Linen Pants",
         "price":"230.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4609,13 +4575,13 @@
         "title":"Colette Cropped W",
         "price":"190.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4667,13 +4633,13 @@
         "title":"Pants",
         "price":"490.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4725,13 +4691,13 @@
         "title":"Wide-Leg Linen Pas",
         "price":"320.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4783,13 +4749,13 @@
         "title":"The Colette Shorts",
         "price":"500.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4838,16 +4804,16 @@
           "burl":"?$a15-pdp-detail-shot$&fit=constrain&fmt=webp&qlt=80&wid=640",
           "surl":"?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=100"
         },
-        "title":"Dolan Printed Halter Jumpsuit",
+        "title":"Dolan Printed Hcolor"color"er Jumpsuit",
         "price":"530.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4899,13 +4865,13 @@
         "title":"The Colette Cropped Wide Leg Linen Pants",
         "price":"930.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -4957,13 +4923,13 @@
         "title":"The Somerset Maxi Dress",
         "price":"130.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -5015,13 +4981,13 @@
         "title":"Farm Rio Bloomming Garden Blouse",
         "price":"430.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -5073,13 +5039,13 @@
         "title":"Moon River Pleated Tie-Belt Pants",
         "price":"180.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -5131,13 +5097,13 @@
         "title":"Pilcro Strapless Polished Wide-Leg Jumpsuit",
         "price":"990.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
@@ -5189,13 +5155,13 @@
         "title":"Endless Rose Mock-Neck Sleeveless Mini Dress",
         "price":"1300.00",
         "color":[
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"},
-          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "alt":"YELLOW"}
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_437_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_070_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_042_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_041_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_027_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_001_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"},
+          {"colorimg":"https://images.urbndata.com/is/image/Anthropologie/4123650590242_010_s?fit=constrain&hei=56&qlt=75", "color":"YELLOW"}
 
         ],
         "fit":[
